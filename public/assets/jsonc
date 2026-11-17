@@ -1,0 +1,9 @@
+{
+  "name": "my-node-ejs-app",
+  "main": "server.js",
+  "compatibility_date": "2026-11-17",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "./public/assets"
+  }
+}
